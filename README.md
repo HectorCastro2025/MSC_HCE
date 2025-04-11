@@ -1,3 +1,3 @@
-# MSC_HCE
+## MSC_HCE
 ## Master Simulación Computacional - PUCV
-## Programación Avanzada
+### Repositorio creado para el módulo de Programación Avanzada.
