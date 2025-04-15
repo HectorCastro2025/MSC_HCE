@@ -1,6 +1,6 @@
 ## MSC_HCE
-## Este Github será principalmente ara almacenar temas relacionados con material del programa de Magister en Simulación Computacional.
-## Algunos de los módulos son:
+## Este Github será principalmente utilizado para almacenar material del programa de Magister en Simulación Computacional - PUCV.
+## Algunos de los módulos del programa son los siguientes:
 ### : Programación Avanzada
 ### : Métodos Numéricos
 ### : Introducción al Modelamiento
