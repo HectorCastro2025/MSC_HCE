@@ -1,4 +1,11 @@
 ## MSC_HCE
+## Este Github será principalmente ara almacenar temas relacionados con material del programa de Magister en Simulación Computacional.
+## Algunos de los módulos son:
+### : Programación Avanzada
+### : Métodos Numéricos
+### : Introducción al Modelamiento
+### A continuación una descripción del Magister.
+
 ## Master Simulación Computacional - PUCV
 _Repositorio creado para el módulo de PROGRAMACIÓN AVANZADA_
 
